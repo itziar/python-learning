@@ -1,4 +1,6 @@
 """
+PROBLEM 3: COUNTING AND GROUPING
+
 A catering company has hired you to help with organizing and preparing customer's orders. You are given a list of each
 customer's desired items, and must write a program that will count the number of each items needed for the chefs to prepare.
 The items that a customer can order are: salad, hamburger, and water.

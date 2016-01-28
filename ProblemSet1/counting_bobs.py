@@ -1,4 +1,6 @@
 """
+PROBLEM 2: COUNTING BOBS
+
 Assume s is a string of lower case characters.
 
 Write a program that prints the number of times the string 'bob' occurs in s. For example, if s = 'azcbobobegghakl',
